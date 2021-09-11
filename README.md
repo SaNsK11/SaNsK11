@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Sanskar.
 
-<!--
-**SaNsK11/SaNsK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+# 🎓 I am an about Open Source enthusiast and in the sophomore year of my college.
+# 🔭 I am actively working towards community building.
+# 👨‍💻 I am passionate about Web Dev and enjoy learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Experiences 🙌
+
+# - Founder at Hash Inklude - A community working towards bridging the information gap among college students and providing them proper guidance for their betterment.
+# - Founder at Learn With Sanskar - A YouTube channel where I am actively providing guidance and solving DSA related problems of the students.
+# - Contributor at Greenstand - Greenstand is a company aimed at providing solutions to poverty and climate change through technology.
+# - Google Web Ranger - I conducted various workshops in my school and other schools regarding cuber security.
+
+
