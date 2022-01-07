@@ -11,6 +11,7 @@
 ### Connect with me 🙌
 
 #### Watch my lastest video on my [YouTube Channel](https://www.youtube.com/channel/UCOAZ3Ws21kX5d7mov543HsQ/featured)
+#### You can also join my community [Hash Inklude's](https://discord.gg/m9YFRqkZTs) discord server.
 #### Follow me on [Twitter](https://twitter.com/sanskar_goyal11) and [Instagram](https://www.instagram.com/sanskar_codes/)
 
 ![Dino game](https://raw.githubusercontent.com/SaNsK11/SaNsK11/main/dino-game.gif)
