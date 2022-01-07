@@ -1,16 +1,16 @@
-## Hi there 👋, I am Sanskar.
+![Sanskar Goyal](https://github.com/SaNsK11/SaNsK11/blob/main/github.png)
 
-## About Me 🚀
+## Hi there 👋, I am Sanskar  Goyal! I'm a Frontend Developer , a YouTuber , a Podcaster and I love to network with people in the community.
 
-### 🎓 I am an Open Source enthusiast and in the sophomore year of my college.
-### 🔭 I am actively working towards community building.
-### 👨‍💻 I am passionate about Web Dev and enjoy learning new things.
+#### About Me 🚀
 
-## My Experiences 🙌
+#### 🎓 I am an Open Source enthusiast and in the sophomore year of my college.
+#### 🔭 I am actively working towards community building.
+#### 👨‍💻 I am passionate about Frontend Development and enjoy learning new things everyday!
 
-### - Founder at Hash Inklude - A community working towards bridging the information gap among college students and providing them proper guidance, knowledge of Open-source and promoting project based learning. 
-### - Founder at Learn With Sanskar - A YouTube channel where I am actively providing guidance and solving DSA related problems of the students.
-### - Contributor at Greenstand - Greenstand is a company aimed at providing solutions to poverty and climate change through technology.
-### - Google Web Ranger - I conducted various workshops in my school and other schools regarding cuber security.
+### Connect with me 🙌
 
+#### Watch my lastest video on my [YouTube Channel](https://www.youtube.com/channel/UCOAZ3Ws21kX5d7mov543HsQ/featured)
+#### Follow me on [Twitter](https://twitter.com/sanskar_goyal11) and [Instagram](https://www.instagram.com/sanskar_codes/)
 
+![Dino game](https://raw.githubusercontent.com/SaNsK11/SaNsK11/main/dino-game.gif)
